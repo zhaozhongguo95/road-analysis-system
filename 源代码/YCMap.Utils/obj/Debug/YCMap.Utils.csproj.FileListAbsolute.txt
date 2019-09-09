@@ -1,0 +1,9 @@
+D:\Users\Desktop\YCMap\YCMap.Utils\bin\Debug\YCMap.Utils.dll
+D:\Users\Desktop\YCMap\YCMap.Utils\bin\Debug\YCMap.Utils.pdb
+D:\Users\Desktop\YCMap\YCMap.Utils\obj\Debug\YCMap.Utils.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\YCMap\YCMap.Utils\obj\Debug\YCMap.Utils.dll
+D:\Users\Desktop\YCMap\YCMap.Utils\obj\Debug\YCMap.Utils.pdb
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\bin\Debug\YCMap.Utils.dll
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\bin\Debug\YCMap.Utils.pdb
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\obj\Debug\YCMap.Utils.dll
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\obj\Debug\YCMap.Utils.pdb

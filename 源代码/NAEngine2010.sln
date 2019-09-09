@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAEngine2010", "NAEngine2010.csproj", "{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		bin|x64 = bin|x64
+		bin|x86 = bin|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.bin|x64.ActiveCfg = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.bin|x64.Build.0 = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.bin|x86.ActiveCfg = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.bin|x86.Build.0 = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Debug|x64.ActiveCfg = Debug|x64
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Debug|x64.Build.0 = Debug|x64
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Debug|x86.ActiveCfg = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Debug|x86.Build.0 = Debug|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Release|x64.ActiveCfg = Release|x64
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Release|x64.Build.0 = Release|x64
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Release|x86.ActiveCfg = Release|x86
+		{BBB6FDBD-48C5-450D-87AE-1D794CFA6222}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

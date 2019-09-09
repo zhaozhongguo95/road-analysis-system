@@ -1,0 +1,4 @@
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\bin\Release\YCMap.Utils.dll
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\bin\Release\YCMap.Utils.pdb
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\obj\Release\YCMap.Utils.dll
+d:\users\documents\visual studio 2010\Projects\xjdx\YCMap.Utils\obj\Release\YCMap.Utils.pdb

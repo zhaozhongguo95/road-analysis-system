@@ -1,0 +1,14 @@
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\Bin\Debug\NAEngine.exe
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\Bin\Debug\NAEngine.pdb
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\Bin\Debug\YCMap.Utils.dll
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\Bin\Debug\YCMap.Utils.pdb
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine2010.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.FormQueryByAttribute.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.FormQueryBySpatial.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.frmLoadLocations.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.frmMain.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.frmNALayerProperties.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.frmNAProperties.resources
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine2010.csproj.GenerateResource.Cache
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.exe
+D:\Users\Documents\Visual Studio 2010\Projects\NAEngine\CSharp\obj\x86\Debug\NAEngine.pdb
